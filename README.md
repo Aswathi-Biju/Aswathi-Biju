@@ -22,6 +22,3 @@ Welcome to my GitHub profile!
 [![trophy](https://github-profile-trophy.vercel.app/?username=Aswathi-Biju&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-
-
-<img src="https://images.app.goo.gl/gnRL9sALhoVpCK6V7" width="600" /> 
