@@ -1,10 +1,12 @@
+# Hi there, I'm Aswathi Biju 👋
+
+Welcome to my GitHub profile! 
+
 <p align="center">
   <img src="./coder-night.jpg" alt="Coder Girl at Night" width="500"/>
 </p>
 
-# Hi there, I'm Aswathi Biju 👋
 
-Welcome to my GitHub profile! 
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Python, C, SQL, HTML, CSS, JavaScript...
