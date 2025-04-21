@@ -7,7 +7,7 @@
 Welcome to my GitHub profile! 
 
 ## 🛠️ Skills & Technologies
-- **Languages:** Python, C, SQL
+- **Languages:** Python, C, SQL, HTML, CSS, JavaScript...
 
 ## 📈 GitHub Stats
 ![Aswathi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aswathi-Biju&show_icons=true&theme=radical)
