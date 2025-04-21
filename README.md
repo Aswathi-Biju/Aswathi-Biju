@@ -17,7 +17,7 @@ Welcome to my GitHub profile!
 - 💻 I joined github in 2024.
 - 🔭 I’m currently working on my skills.
 - 🌱 I’m currently pursuing BTECH CSE at St. Joseph's College of Engineering and Technology.
-- 💬 Ask me about Python, C.
+- 💬 Ask me about Python, C, HTML, CSS
 - 📫 How to reach me: aswathibiju2028@cs.sjcetpalai.ac.in
 
 ## 🏆 GitHub Trophies
